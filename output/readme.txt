@@ -1,0 +1,1 @@
+The program will take images from the input folder, blend them, and then output them to this folder
